@@ -1,0 +1,6 @@
+{
+  "name": "Speakify AI",
+  "description": "Powerful offline Text-to-Speech application with support for all device languages, customizable voice parameters, speaking history, offline OCR scanner, and audio export features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
